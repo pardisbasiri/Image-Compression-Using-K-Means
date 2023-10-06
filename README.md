@@ -1,3 +1,4 @@
+# Image-Compression-Using-K-Means
 Image Compression with K-Means Clustering and Elbow Method
 
 This project demonstrates the use of the K-Means clustering algorithm for compressing an image, while incorporating the elbow method to determine the optimal number of clusters (K). The elbow method is a technique to find the inflection point in the inertia graph, indicating the suitable number of clusters.
